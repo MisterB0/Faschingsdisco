@@ -1,3 +1,6 @@
+**THIS PROJECT IS NO LONGER BEING MENTAINED**
+
+
 # Faschingsdisco Voting System
 **INFO**
 Das Voting System elemeniert alle Probleme die bei anderen Abstimmungen vorkommen:
